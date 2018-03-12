@@ -20,8 +20,8 @@ body {
   margin-top: 5%;
   margin-right: 10%;
   margin-left: 10%;
-  padding-top: 3%;
-  padding-bottom: 3%;
+  padding-top: 10%;
+  padding-bottom: 10%;
   padding-left: 5%;
   padding-right: 5%;
   background: white;
@@ -40,7 +40,9 @@ body {
 }
 
 .share-buttons{
-  margin-top: 10%;
+  margin-top: 15%;
+  padding-top: 5%;
+  padding-botom: 5%;
 }
 
 .button{
